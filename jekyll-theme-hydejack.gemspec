@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Florian Klampfer"]
   spec.email         = ["mail@qwtel.com"]
 
-  spec.summary       = %q{"A boutique Jekyll theme for hackers, nerds, and academics"}
+  spec.summary       = %q{"코딩 공부"}
   spec.homepage      = "https://hydejack.com/"
   spec.license       = "GPL-3.0"
   spec.metadata = {
