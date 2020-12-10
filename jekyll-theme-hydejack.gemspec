@@ -1,6 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
+  gem "jekyll-paginate"
   spec.name          = "jekyll-theme-hydejack"
   spec.version       = "9.0.5"
   spec.authors       = ["Florian Klampfer"]
