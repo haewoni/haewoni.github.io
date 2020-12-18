@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Code
-slug: review
+slug: code
 menu: true
 submenu: false
 order: 3
