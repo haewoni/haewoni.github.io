@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Review
+title: Code
 slug: review
 menu: true
 submenu: false
 order: 3
 description: >
-  Reviews on hardware/software
+  코딩 연습
 ---
