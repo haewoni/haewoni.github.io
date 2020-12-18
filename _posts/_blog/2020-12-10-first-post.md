@@ -1,6 +1,6 @@
 ---
 title: "First post"
 date: 2020-12-10 
-categories: jekyll update
+category: blog
 ---
 first post test YAY
