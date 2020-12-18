@@ -1,10 +1,10 @@
 ---
 layout: list
 title: Blog
-slug: devlog
+slug: blog
 menu: true
 submenu: true
 order: 2
 description: >
-  Anything about Development
+  블로그
 ---
