@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Devlog
+title: Blog
 slug: devlog
 menu: true
 submenu: true
