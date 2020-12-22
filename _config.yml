@@ -425,5 +425,5 @@ sass:
 # jekyll-feed settings
 feed:
   categories:
-    - devlog
-    - review
+    - blog
+    - code
