@@ -1,0 +1,10 @@
+---
+title: "[스크랩] api란"
+date: 2020-12-31
+category: blog
+---
+
+
+> 알기 쉽게 api 개념을 정리 한 글
+
+https://dydrlaks.medium.com/api-%EB%9E%80-c0fd6222d34c
